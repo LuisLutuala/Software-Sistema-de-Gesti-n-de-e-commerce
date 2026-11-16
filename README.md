@@ -1,2 +1,7 @@
 # Software-Sistema-de-Gesti-n-de-e-commerce
-Sistema de Gestión de e-commerce funcional.
+Sistema de Gestión de e-commerce funcional (GoCommerce Studio).
+
+El presente proyecto, denominado GoCommerce Studio, consiste en la planificación y desarrollo de un sistema de gestión de comercio electrónico para administrar de manera organizada en la comercialización de productos mediante la plataforma. Facilitando la administración de productos, clientes, inventarios, pedidos y procesos de compra a través de una estructura tecnológica organizada, funcional y escalable.
+
+El desarrollo de GoCommerce Studio se llevará a cabo utilizando el lenguaje de programación Go (Golang), considerando sus características de eficiencia, simplicidad y organización del código. El proyecto se estructurará mediante una arquitectura modular, en la cual cada módulo tendrá responsabilidades específicas y trabajará de manera coordinada con los demás componentes del sistema. Esta organización permitirá mantener una separación adecuada de las funcionalidades, facilitar el mantenimiento del software y posibilitar la incorporación de nuevas características en futuras etapas de desarrollo
+Se contempla la implementación de diferentes módulos funcionales entre ellos se encuentran el módulo de usuarios, encargado del registro y administración de clientes; el módulo de productos, destinado a gestionar el catálogo, precios y características de los artículos; el módulo de categorías, que permitirá organizar los productos según su clasificación; y el módulo de inventario, responsable de controlar las existencias y disponibilidad de los artículos.
