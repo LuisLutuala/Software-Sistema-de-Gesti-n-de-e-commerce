@@ -7,3 +7,28 @@ pagos simulados, facturación y reportes.
 Como parte de la planificación y estructura del código, se incorporarán comentarios descriptivos 
 que permitan identificar los módulos, explicar las funciones, documentar procesos y facilitar la comprensión del programa 
 durante su desarrollo y mantenimiento.
+
+package main
+
+/*
+   ====================================================
+   Proyecto: GoCommerce Studio
+   Archivo: main.go
+   Autor: Luis Lutuala
+   Fecha de creación: 15/11/2026
+   Versión: 1.0.0
+   Descripción: Sistema de gestión de comercio electrónico.
+   ====================================================
+*/
+
+import "fmt"
+
+func main() {
+
+	fmt.Println("========================================")
+	fmt.Println("       BIENVENIDO A GOCOMMERCE STUDIO")
+	fmt.Println("========================================")
+	fmt.Println("Sistema de gestión de comercio electrónico")
+	fmt.Println("Versión: 1.0.0")
+	fmt.Println("========================================")
+}
