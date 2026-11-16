@@ -13,7 +13,6 @@ package main
 /*
    ====================================================
    Proyecto: GoCommerce Studio
-   Archivo: main.go
    Autor: Luis Lutuala
    Fecha de creación: 15/11/2026
    Versión: 1.0.0
@@ -24,11 +23,28 @@ package main
 import "fmt"
 
 func main() {
-
-	fmt.Println("========================================")
-	fmt.Println("       BIENVENIDO A GOCOMMERCE STUDIO")
-	fmt.Println("========================================")
-	fmt.Println("Sistema de gestión de comercio electrónico")
-	fmt.Println("Versión: 1.0.0")
-	fmt.Println("========================================")
+	
+	fmt.Println()
+	fmt.Println("================================================")
+	fmt.Println("              GOCOMMERCE STUDIO")
+	fmt.Println("       SISTEMA DE GESTION E-COMMERCE")
+	fmt.Println("================================================")
+	fmt.Println()
+	fmt.Println("                 MENU PRINCIPAL")
+	fmt.Println()
+	fmt.Println("  1. Gestion de usuarios")
+	fmt.Println("  2. Gestion de productos")
+	fmt.Println("  3. Gestion de categorias")
+	fmt.Println("  4. Control de inventario")
+	fmt.Println("  5. Carrito de compras")
+	fmt.Println("  6. Gestion de pedidos")
+	fmt.Println("  7. Gestion de pagos")
+	fmt.Println("  8. Facturacion")
+	fmt.Println("  9. Reportes y estadisticas")
+	fmt.Println()
+	fmt.Println("  0. Salir del sistema")
+	fmt.Println()
+	fmt.Println("================================================")
+	fmt.Println("  Seleccione una opcion:")
+	fmt.Println("================================================")
 }
