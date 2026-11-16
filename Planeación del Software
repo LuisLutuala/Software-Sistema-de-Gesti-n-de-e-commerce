@@ -1,1 +1,9 @@
+El proyecto GoCommerce Studio consiste en el desarrollo de un sistema de gestión de comercio electrónico (E-commerce),
+utilizando el lenguaje de programación Go (Golang). 
+Su propósito será administrar las principales operaciones de una tienda virtual mediante una estructura modular, 
+organizada y escalable, que permita gestionar usuarios, productos, categorías, inventario, carrito de compras, pedidos, 
+pagos simulados, facturación y reportes.
 
+Como parte de la planificación y estructura del código, se incorporarán comentarios descriptivos 
+que permitan identificar los módulos, explicar las funciones, documentar procesos y facilitar la comprensión del programa 
+durante su desarrollo y mantenimiento.
